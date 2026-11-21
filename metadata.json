@@ -1,0 +1,6 @@
+{
+  "name": "FC Mobile 26: UTOTY & Premier League Career",
+  "description": "Quản lý đội bóng đá đỉnh cao với sự kiện mở vé UTOTY 2026, xây dựng chiến thuật đa sơ đồ và chinh phục 38 vòng đấu Ngoại Hạng Anh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
